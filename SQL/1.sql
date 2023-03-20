@@ -1,0 +1,4 @@
+CREATE DATABASE sql_tutorial;
+CREATE DATABASE `database`;
+SHOW DATABASES; 
+DROP DATABASE `database`;
